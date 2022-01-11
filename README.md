@@ -8,9 +8,11 @@ This repository includes lab notes of STAT 412 lecture in the Department of Stat
 
 # Exploratory Data Analysis
 
-<a href="https://github.com/ozancanozdemir/Statistical-Data-Analysis-STAT-412-Lab-Notes/tree/master/Lecture%20Note"> Please click to open the folder. </a>
+<a href="https://github.com/ozancanozdemir/Statistical-Data-Analysis-STAT-412-Lab-Notes/tree/master/Lecture%20Note"> Please down to open and download the files. </a>
 
 # Data Cleaning
+
+<a href="https://github.com/ozancanozdemir/Statistical-Data-Analysis-STAT-412-Lab-Notes/tree/master/Lecture%20Note%20(2)"> Please down to open and download the files. </a>
 
 # Linear Regression
 
